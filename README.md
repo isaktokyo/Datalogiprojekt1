@@ -1,0 +1,2 @@
+# Datalogiprojekt1
+KlaraOgMina
